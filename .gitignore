@@ -1,0 +1,7 @@
+echo「#pojavlauncher-android2.3test」>>README.md 
+git init 
+git add README.md 
+git commit -m「第一次提交」
+git分支-M主
+git最後新增原點https://github.com /HAKSB83 / pojavlauncher- android2.3test.git
+ git push -u origin main
